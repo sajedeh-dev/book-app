@@ -1,8 +1,21 @@
-# React + Vite
+# 📚 Book App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and visually appealing React application that displays a list of books and allows users to manage their favorites and search through the list.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Features
+
+- 🔍 **Search bar** to filter books by title 
+- 📖 Display a list of books with title, author, language, and page count
+- ❤️ Add books to/from favorites with a heart icon
+- ⭐ Favorites section displayed separately on the side
+- 🎨 Clean, colorful UI
+
+---
+
+## 🛠️ Built With
+
+- ⚛️ React +  Vite
+- 💅 CSS , HTML
+- 🔁 React Hooks (`useState`, etc.)
